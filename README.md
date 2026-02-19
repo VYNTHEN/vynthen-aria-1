@@ -1,96 +1,64 @@
 <!-- ====================== HERO ====================== -->
 
-<h1 align="center">🚀 Vynthen Aria 1</h1>
+# 🚀 Vynthen Aria 1
 
 <p align="center">
-<b>The Next-Gen 3B Text Generation, Coding & Website Generation AI</b><br>
-Built by <b>Vynthen AI</b>
+  <img src="https://img.shields.io/badge/Vynthen-AI-blueviolet?style=for-the-badge">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Model-3B-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/Base-Qwen2.5--3B-Instruct-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-Apache--2.0-green?style=for-the-badge">
-</p>
-
-<p align="center">
-<a href="https://huggingface.co/Vynthen/Vynthen-Aria-1">
-<img src="https://img.shields.io/badge/🚀%20Run%20Vynthen%20Aria%201%20Now-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black">
-</a>
-</p>
-
-<p align="center">
-⭐ Generate full apps, websites, and complex code instantly
+  <b>Vynthen Aria 1 — 3B Coding & Website Generation AI</b><br>
+  Built by <b>Vynthen AI</b>
 </p>
 
 ---
 
-<!-- ====================== ABOUT ====================== -->
+<p align="center">
+  <a href="https://huggingface.co/Vynthen/Vynthen-Aria-1">
+    <img src="https://img.shields.io/badge/🚀%20Try%20the%20Model-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 
-## 🧠 About Vynthen Aria 1
-
-**Vynthen Aria 1** is a **3 Billion parameter AI developer model** created by **Vynthen AI**.
-
-It is designed to act like a **mini lovable coding assistant** that can:
-
-- 💻 Write complex production-ready code  
-- 🌐 Generate full websites from prompts  
-- 🧠 Explain solutions step-by-step  
-- ⚡ Build apps, bots, and tools  
-- 🤖 Answer like **"I am Vynthen AI"**  
-
-Fine-tuned on **10,000 high-quality template-based examples**.
-
-Built on **Qwen2.5-3B-Instruct** for strong reasoning + coding ability.
+<p align="center">
+  ⭐ Run the model instantly on Hugging Face
+</p>
 
 ---
 
-<!-- ====================== FEATURES ====================== -->
+## 🧠 About
 
-## ✨ Key Features
+**Vynthen Aria 1** is a **3B parameter AI model** created by **Vynthen AI**.
 
-### 💻 Advanced Coding
-- Python, JS, React, C++, HTML, CSS
-- Full projects with folder structure
-- Clean production-ready code
+Designed for:
 
-### 🌐 Website Generator
-- Landing pages  
-- Dashboards  
-- Portfolios  
-- E-commerce UIs  
+- 💻 Writing complex code  
+- 🌐 Generating full websites from prompts  
+- 🧠 Step-by-step reasoning  
+- 🤖 Acting as a coding assistant  
 
-Just prompt like:
+Fine-tuned on **10,000 template-based examples** to create a mini-lovable developer AI.
 
-> "Build a modern fintech dashboard with login page"
-
-### 🧠 Smart Reasoning
-- Step-by-step explanations  
-- Debugging help  
-- Architecture planning  
-
-### ⚡ Fast & Lightweight
-- Only **3B parameters**
-- Runs on consumer GPUs
-- Optimized with LoRA fine-tuning
+Built on top of **Qwen2.5-3B-Instruct**.
 
 ---
 
-<!-- ====================== SPECS ====================== -->
+## 📊 Model Details
 
-## 📊 Model Specifications
-
-| Feature | Details |
-|---------|---------|
-| Model Name | **Vynthen Aria 1** |
-| Creator | **Vynthen AI** |
-| Parameters | **3 Billion** |
-| Dataset | 10k Template-Based Examples |
-| Tasks | Coding, Websites, Chat |
-| Training Method | LoRA Fine-Tuning |
+| Feature | Info |
+|---------|------|
+| Model Name | Vynthen Aria 1 |
+| Creator | Vynthen AI |
+| Parameters | 3 Billion |
+| Tasks | Coding, Website Generation, Chat |
 | License | Apache-2.0 |
 
 ---
+
+## ▶️ Quick Start
+
+```bash
+pip install transformers accelerate torch
+
 
 <!-- ====================== QUICK START ====================== -->
 
